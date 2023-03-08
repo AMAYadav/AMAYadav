@@ -1,5 +1,10 @@
-[![MasterHead](https://wallpaperaccess.com/full/6993068.gif)](https://AMAYadav.io)
+[![MasterHead]( https://wallpaperaccess.com/full/1398314.jpg  )](https://AMAYadav.io)
+<!--https://wallpaperaccess.com/full/6993068.gif 
+https://wallpaperaccess.com/full/1398314.jpg
 
+https://media.licdn.com/dms/image/C4D22AQFkVPNiwrxHmw/feedshare-shrink_2048_1536/0/1623139831071?e=1680739200&v=beta&t=cP48wyScfGLufdH_3kH7IwFeSwFb8SEcfAv2qTRo098
+
+-->
 <h1 align="center">Hi 👋, I'm Amarjeet Yadav</h1>
 <h3 align="center">In love with Finance and Data!!</h3>
 <img align="right" alt="Coding" width="450" height = "270" src="https://www.intersystemsuki.com/wp-content/uploads/2020/06/finance.gif">
