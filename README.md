@@ -1,6 +1,8 @@
+[![MasterHead](https://wallpaperaccess.com/full/732213.jpg)](https://AMAYadav.io)
+
 <h1 align="center">Hi 👋, I'm Amarjeet Yadav</h1>
 <h3 align="center">In love with Finance and Data!!</h3>
-<img align="right" alt="Coding" width="450" height = "300" src="https://www.intersystemsuki.com/wp-content/uploads/2020/06/finance.gif">
+<img align="right" alt="Coding" width="450" height = "270" src="https://www.intersystemsuki.com/wp-content/uploads/2020/06/finance.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amayadav&label=Profile%20views&color=0e75b6&style=flat" alt="amayadav" /> </p>
 
