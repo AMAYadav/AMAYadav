@@ -1,5 +1,6 @@
-[![MasterHead](https://wallpaperaccess.com/full/6993068.gif)](https://AMAYadav.io)
-
+[![MasterHead](https://cutewallpaper.org/26/artifical-intelligence-gif-wallpaper/aigif-gif-by-yuhuei-lee-gfycat.gif)](https://AMAYadav.io)
+https://wallpaperaccess.com/full/6993068.gif
+##
 <h1 align="center">Hi 👋, I'm Amarjeet Yadav</h1>
 <h3 align="center">In love with Finance and Data!!</h3>
 <img align="right" alt="Coding" width="450" height = "270" src="https://www.intersystemsuki.com/wp-content/uploads/2020/06/finance.gif">
