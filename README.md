@@ -1,4 +1,4 @@
-[![MasterHead]( https://blog.paperspace.com/content/images/2020/01/Intro-HELLO-FUTURE-1920x1080_v2.gif )](https://AMAYadav.io)
+[![MasterHead]( https://blog.paperspace.com/content/images/2020/01/Intro-HELLO-FUTURE-1920x1080_v2.gif )](https://amayadav.github.io/amarjeets/)
 <!--https://wallpaperaccess.com/full/6993068.gif 
 https://wallpaperaccess.com/full/1398314.jpg
 
