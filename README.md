@@ -11,7 +11,7 @@ https://media.licdn.com/dms/image/C4D22AQFkVPNiwrxHmw/feedshare-shrink_2048_1536
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amayadav&label=Profile%20views&color=0e75b6&style=flat" alt="amayadav" /> </p>
 
-- 🌱 I’m currently learning ** Market Risk, Derivatives Valuations.**
+- 🌱 I’m currently learning **Market Risk, Derivatives Valuations.**
 
 - 👨‍💻 All of my projects are available at [Amarjeet](https://github.com/AMAYadav)
 
@@ -31,8 +31,8 @@ https://media.licdn.com/dms/image/C4D22AQFkVPNiwrxHmw/feedshare-shrink_2048_1536
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- <!--https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg--> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src=" https://github.com/AMAYadav/AMAYadav/blob/main/cssgif.gif" alt="css3" width="40" height="40"/> </a>
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/AMAYadav/AMAYadav/blob/main/cssgif.gif" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://numpy.org/doc/stable/reference/index.html" target="_blank" rel="noreferrer"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="100" height="40"/> </a>
