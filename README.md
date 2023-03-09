@@ -11,11 +11,11 @@ https://media.licdn.com/dms/image/C4D22AQFkVPNiwrxHmw/feedshare-shrink_2048_1536
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amayadav&label=Profile%20views&color=0e75b6&style=flat" alt="amayadav" /> </p>
 
-- 🌱 I’m currently learning **Finance, Market Risk, Derivatives Valuations.**
+- 🌱 I’m currently learning ** Market Risk, Derivatives Valuations.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AMAYadav](https://github.com/AMAYadav)
+- 👨‍💻 All of my projects are available at [Amarjeet](https://github.com/AMAYadav)
 
-- 📝 I regularly write articles on [https://medium.com/@amarjeet2739](https://medium.com/@amarjeet2739)
+- 📝 I regularly write articles on [@amarjeet2739](https://medium.com/@amarjeet2739)
 
 - 📫 How to reach me **amarjeet2739@gmail.com**
 
