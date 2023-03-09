@@ -49,8 +49,8 @@ https://media.licdn.com/dms/image/C4D22AQFkVPNiwrxHmw/feedshare-shrink_2048_1536
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 
 <a href="https://quantlib-python-docs.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/15903619?s=200&v=4" alt="quantlib" width="40" height="40"/> </a>
-<a href="https://pyportfolioopt.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img src="https://github.com/AMAYadav/AMAYadav/blob/main/pyfolio.webp" alt="pyfolio" width="40" height="55"/> </a>
-<a href="https://riskfolio-lib.readthedocs.io/en/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://riskfolio-lib.readthedocs.io/en/latest/_images/Pie_Chart.png" alt="riskfolio" width="40" height="40"/> </a>
+<a href="https://pyportfolioopt.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img src="https://github.com/AMAYadav/AMAYadav/blob/main/pyfolio.webp" alt="pyfolio" width="40" height="40"/> </a>
+<a href="https://riskfolio-lib.readthedocs.io/en/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://riskfolio-lib.readthedocs.io/en/latest/_images/Pie_Chart.png" alt="riskfolio" width="45" height="45"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amayadav&show_icons=true&locale=en&layout=compact" alt="amayadav" /></p>
