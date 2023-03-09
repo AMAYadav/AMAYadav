@@ -44,7 +44,7 @@ https://media.licdn.com/dms/image/C4D22AQFkVPNiwrxHmw/feedshare-shrink_2048_1536
 <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="r-project" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_static/images/logo_dark.svg" alt="matplotlib" width="100" height="40"/> </a>
 <a href="https://quantlib-python-docs.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/15903619?s=200&v=4" alt="quantlib" width="40" height="40"/> </a>
-<a href="https://support.microsoft.com/en-us/office/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/489311/screenshots/6691380/excel-icons-animation.gif" alt="excel" width="40" height="40"/> </a>
+<a href="https://support.microsoft.com/en-us/office/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188" target="_blank" rel="noreferrer"> <img src="https://github.com/AMAYadav/AMAYadav/blob/main/excel%20gif.gif" alt="excel" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amayadav&show_icons=true&locale=en&layout=compact" alt="amayadav" /></p>
