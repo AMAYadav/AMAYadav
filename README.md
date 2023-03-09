@@ -41,7 +41,7 @@ https://media.licdn.com/dms/image/C4D22AQFkVPNiwrxHmw/feedshare-shrink_2048_1536
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="r-project" width="40" height="40"/> </a>
+<a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/1775316/36732568-68dc69e6-1bce-11e8-890a-5cd3a20ab8d6.gif" alt="r-project" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_static/images/logo_dark.svg" alt="matplotlib" width="100" height="40"/> </a>
 <a href="https://quantlib-python-docs.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/15903619?s=200&v=4" alt="quantlib" width="40" height="40"/> </a>
 <a href="https://support.microsoft.com/en-us/office/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188" target="_blank" rel="noreferrer"> <img src="https://github.com/AMAYadav/AMAYadav/blob/main/excel%20gif.gif" alt="excel" width="40" height="40"/> </a>
