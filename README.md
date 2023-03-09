@@ -42,14 +42,15 @@ https://media.licdn.com/dms/image/C4D22AQFkVPNiwrxHmw/feedshare-shrink_2048_1536
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/coxQHKASG60HrHtvkt/giphy.webp" alt="python" width="40" height="40"/> </a>
 <a href="https://numpy.org/doc/stable/reference/index.html" target="_blank" rel="noreferrer"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="100" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKmkBqviJKR3yCj5F251eRodlrKmubG6ey7pJMGGLMs2CF23gBT_4QevLGRVUjcSXSkQ&usqp=CAU" alt="pandas" width="65" height="35"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_static/images/logo_dark.svg" alt="matplotlib" width="100" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 
-<a href="https://quantlib-python-docs.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img src="https://github.com/AMAYadav/AMAYadav/blob/main/pyfolio.webp" alt="pyfolio" width="40" height="40"/> </a>
 <a href="https://quantlib-python-docs.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/15903619?s=200&v=4" alt="quantlib" width="40" height="40"/> </a>
+<a href="https://pyportfolioopt.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img src="https://github.com/AMAYadav/AMAYadav/blob/main/pyfolio.webp" alt="pyfolio" width="40" height="55"/> </a>
+<a href="https://riskfolio-lib.readthedocs.io/en/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://riskfolio-lib.readthedocs.io/en/latest/_images/Pie_Chart.png" alt="riskfolio" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amayadav&show_icons=true&locale=en&layout=compact" alt="amayadav" /></p>
